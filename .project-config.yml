@@ -1,0 +1,6 @@
+project-config-version: 1
+service:
+  port: 8080
+  subdomain: test-repo
+notifications:
+  emails: reboone@containerstore.com
